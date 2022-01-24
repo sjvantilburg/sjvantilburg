@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sjvantilburg
 - 👀 I’m interested in Data Science, ML, Productivity, Automation, and Golf/
 - 🌱 Trinity University BA Physics, Georgia Tech MS Computer Science
-- 📫 How to reach me Twitter: @sjvantilburg
+- 📫 Twitter: @sjvantilburg
 
 <!---
 sjvantilburg/sjvantilburg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
