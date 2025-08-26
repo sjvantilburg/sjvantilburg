@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sjvantilburg
-- 👀 I’m interested in Data Science, ML, Productivity, Automation, and Golf.
+- 👀 I’m interested in Interactive Intelligence, AI Design, AI/ML Products, Productivity, Automation, and Golf.
 - 🌱 Trinity University BA Physics, Georgia Tech MS Computer Science
 - 📫 Twitter: @sjvantilburg
 
